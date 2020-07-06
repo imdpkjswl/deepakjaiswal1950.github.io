@@ -2,7 +2,15 @@
  
  [![HitCount](http://hits.dwyl.com/deepakjaiswal2018/deepakjaiswal2018githubio.svg)](http://hits.dwyl.com/deepakjaiswal2018/deepakjaiswal2018githubio)
  
- ![Alt text](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/deepakjaiswal.jpg?raw=true "Title")
+ <p align="center"> 
+  <kbd>
+  	<a href="https://deepakjaiswal2018.github.io" target="_blank">
+		<img src="deepakjaiswal.jpg"></img>
+	</a>
+  </kbd>
+</p>
+ 
+ <!-- ![Alt text](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/deepakjaiswal.jpg?raw=true "Title") -->
 
 # MyPortfolio
 
