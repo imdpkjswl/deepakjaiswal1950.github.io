@@ -3,11 +3,11 @@
  [![HitCount](http://hits.dwyl.com/deepakjaiswal2018/deepakjaiswal2018githubio.svg)](http://hits.dwyl.com/deepakjaiswal2018/deepakjaiswal2018githubio)
  
  <p align="center"> 
-  <kbd>
+  <dj>
   	<a href="https://deepakjaiswal2018.github.io" target="_blank">
 		<img src="deepakjaiswal.jpg"></img>
 	</a>
-  </kbd>
+  </dj>
 </p>
  
 ![GitHub contributors](https://img.shields.io/github/contributors/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ffcc66&style=for-the-badge)
