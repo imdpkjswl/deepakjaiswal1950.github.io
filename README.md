@@ -10,6 +10,19 @@
   </kbd>
 </p>
  
+![GitHub contributors](https://img.shields.io/github/contributors/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+
+[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+ 
+ 
+ 
+ 
+ 
  <!-- ![Alt text](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/deepakjaiswal.jpg?raw=true "Title") -->
 
 # MyPortfolio ✨
