@@ -15,7 +15,7 @@
 # MyPortfolio
 
 
-MyPortfolio is a single page resume website.
+MyPortfolio is a single page resume website for developer.
 
 
 ## Portfolio Set up:
@@ -25,6 +25,18 @@ Use the web development front end tools.
 ```
 HTML, CSS & JavaScript
 ```
+
+## Sections may be included:
+✔️ About me 📙\
+✔️ Skills 🛠️\
+✔️ Certifications 🏆\
+✔️ Projects 🛠️\
+✔️ Education 🏫\
+✔️ Contact me 📇
+
+To view a live example, **[click here](https://deepakjaiswal2018.github.io)**
+
+
 
 ### About me
 ```
