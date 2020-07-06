@@ -38,7 +38,7 @@ To view a live example, **[click here](https://deepakjaiswal2018.github.io)**
 
 
 
-### About me
+### About me 📙
 ```
 * Competitive Programmmer
 * Java Developer
@@ -47,13 +47,13 @@ To view a live example, **[click here](https://deepakjaiswal2018.github.io)**
 ```
 
 
-### Education
+### Education 🏫
 ```
 * Undergrad
 * Intermediate
 ```
 
-### Contact
+### Contact 📇
 ```
 * Mail: deepakjaiswal1950@gmail.com
 * Location: Bengaluru
