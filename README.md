@@ -17,7 +17,7 @@
 [![GitHub license](https://img.shields.io/github/license/deepakjaiswal2018/deepakjaiswal2018.github.io?style=for-the-badge)](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deepakjaiswal?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/deepakj21032000)
 
-[![Site preview](/public/deepakjaiswal.jpg)](https://deepakjaiswal2018.github.io/)
+[![Site preview](preview.png)](https://deepakjaiswal2018.github.io/)
  
  
  
