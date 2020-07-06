@@ -10,7 +10,7 @@
   </kbd>
 </p>
  
-![GitHub contributors](https://img.shields.io/github/contributors/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ffcc66&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ff007f&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ffcc66&style=for-the-badge)
 [![GitHub forks](https://img.shields.io/github/forks/deepakjaiswal2018/deepakjaiswal2018.github.io?style=for-the-badge)](https://github.com/deepakjaiswal2018/star_book/network)
 [![GitHub issues](https://img.shields.io/github/issues/deepakjaiswal2018/deepakjaiswal2018.github.io?color=ffcc66&style=for-the-badge)](https://github.com/deepakjaiswal2018/star_book/issues)
