@@ -79,5 +79,5 @@ Please make sure to update tests as appropriate.
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Stars ⭐ 
+## Stars over the time⭐ 
 [![Stargazers over time](https://starchart.cc/deepakjaiswal2018/deepakjaiswal2018.github.io.svg)](https://starchart.cc/deepakjaiswal2018/deepakjaiswal2018.github.io)
