@@ -12,7 +12,7 @@
  
  <!-- ![Alt text](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/deepakjaiswal.jpg?raw=true "Title") -->
 
-# MyPortfolio
+# MyPortfolio ✨
 
 
 MyPortfolio is a single page resume website for developer.
