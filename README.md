@@ -1,6 +1,6 @@
  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Created By Deepak Jaiswal`
  
- ![Alt text](relative/path/to/deepakjaiswal.jpg?raw=true "Title")
+ ![Alt text](https://github.com/deepakjaiswal2018/deepakjaiswal2018.github.io/blob/master/deepakjaiswal.jpg?raw=true "Title")
 
 # MyPortfolio
 
