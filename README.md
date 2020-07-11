@@ -25,7 +25,7 @@
 
 MyPortfolio is a single page resume website for developer.
 
-[![Site preview](preview.png)](https://deepakjaiswal2018.github.io/)
+[![Site preview](site_preview.png)](https://deepakjaiswal2018.github.io/)
 
 
 ## Portfolio Set up:
