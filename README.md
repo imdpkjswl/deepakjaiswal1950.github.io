@@ -33,7 +33,7 @@ MyPortfolio is a single page resume website for developer.
 Use the web development front end tools.
 
 ```
-HTML, CSS & JavaScript
+HTML & CSS.
 ```
 
 ## Sections may be included:
