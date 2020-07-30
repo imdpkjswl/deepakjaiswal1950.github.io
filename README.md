@@ -53,7 +53,7 @@ To view a live example, **[click here](https://deepakjaiswal2018.github.io)**
 * Competitive Programmmer
 * Java Developer
 * Android Application Developer(Basic)
-* https://github.com/deepakjaiswal2018/myportfolio/
+* https://deepakjaiswal2018.github.io/
 ```
 
 
@@ -66,6 +66,8 @@ To view a live example, **[click here](https://deepakjaiswal2018.github.io)**
 ### Contact 📇
 ```
 * Mail: deepakjaiswal1950@gmail.com
+* Linkedin: deepakjaiswal2018
+* Twitter: deepakjaiswal__
 * Location: Bengaluru
 ```
 
